@@ -1,1 +1,90 @@
-[{"id":1,"title":"Producto prueba","description":"Este es un producto prueba","code":"abc126","price":200,"status":true,"stock":25,"category":"producto","thumbnail":"Sin imagen"},{"id":6,"title":"Producto prueba","description":"Este es un producto prueba","code":"abc126","price":200,"status":true,"stock":25,"category":"producto","thumbnail":"Sin imagen"},{"id":16,"title":"Producto prueba","description":"Este es un producto prueba","code":"abc126","price":200,"status":true,"stock":25,"category":"producto","thumbnail":"Sin imagen"},{"id":"90","title":"ACTUALIZADO Producto prueba","description":"Este es un producto prueba","code":"abc126","price":200,"status":true,"stock":25,"category":"producto","thumbnail":"Sin imagen"},{"id":8,"title":"ACTUALIZADO Producto prueba","description":"Este es un producto prueba","code":"abc126","price":200,"status":true,"stock":25,"category":"producto","thumbnail":"Sin imagen"},{"id":45,"title":"ACTUALIZADO Producto prueba","description":"Este es un producto prueba","code":"abc126","price":200,"status":true,"stock":25,"category":"producto","thumbnail":"Sin imagen"},{"id":9,"title":"ACTUALIZADO Producto prueba","description":"Este es un producto prueba","code":"abc126","price":200,"status":true,"stock":25,"category":"producto","thumbnail":"Sin imagen"},{"id":"3","title":"NUEVO ACTUALIZADO Producto prueba","description":"Este es un producto prueba","code":"abc126","price":200,"status":true,"stock":25,"category":"producto","thumbnail":"Sin imagen"}]
+[
+    {
+        "id": 1,
+        "title": "Producto prueba",
+        "description": "Este es un producto prueba",
+        "code": "abc126",
+        "price": 200,
+        "status": true,
+        "stock": 25,
+        "category": "producto",
+        "thumbnail": "Sin imagen"
+    },
+    {
+        "id": 6,
+        "title": "Producto prueba",
+        "description": "Este es un producto prueba",
+        "code": "abc126",
+        "price": 200,
+        "status": true,
+        "stock": 25,
+        "category": "producto",
+        "thumbnail": "Sin imagen"
+    },
+    {
+        "id": 16,
+        "title": "Producto prueba",
+        "description": "Este es un producto prueba",
+        "code": "abc126",
+        "price": 200,
+        "status": true,
+        "stock": 25,
+        "category": "producto",
+        "thumbnail": "Sin imagen"
+    },
+    {
+        "id": "90",
+        "title": "ACTUALIZADO Producto prueba",
+        "description": "Este es un producto prueba",
+        "code": "abc126",
+        "price": 200,
+        "status": true,
+        "stock": 25,
+        "category": "producto",
+        "thumbnail": "Sin imagen"
+    },
+    {
+        "id": 8,
+        "title": "ACTUALIZADO Producto prueba",
+        "description": "Este es un producto prueba",
+        "code": "abc126",
+        "price": 200,
+        "status": true,
+        "stock": 25,
+        "category": "producto",
+        "thumbnail": "Sin imagen"
+    },
+    {
+        "id": 45,
+        "title": "ACTUALIZADO Producto prueba",
+        "description": "Este es un producto prueba",
+        "code": "abc126",
+        "price": 200,
+        "status": true,
+        "stock": 25,
+        "category": "producto",
+        "thumbnail": "Sin imagen"
+    },
+    {
+        "id": 9,
+        "title": "ACTUALIZADO Producto prueba",
+        "description": "Este es un producto prueba",
+        "code": "abc126",
+        "price": 200,
+        "status": true,
+        "stock": 25,
+        "category": "producto",
+        "thumbnail": "Sin imagen"
+    },
+    {
+        "id": "3",
+        "title": "NUEVO ACTUALIZADO Producto prueba",
+        "description": "Este es un producto prueba",
+        "code": "abc126",
+        "price": 200,
+        "status": true,
+        "stock": 25,
+        "category": "producto",
+        "thumbnail": "Sin imagen"
+    }
+]
